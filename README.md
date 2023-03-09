@@ -1,5 +1,5 @@
 # WireGuard Multiple Servers Split-Tunneling
-Connect and split-tunnel between multiple servers simultaneously
+Connect and split-tunnel between multiple servers simultaneously.
 
 # Introduction
 
